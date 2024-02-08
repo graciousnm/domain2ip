@@ -3,7 +3,7 @@ try:
     import socket
 except:
     print("There was an error importing a necessary module.")
-    print("Please make sure you have the 'socket' and 'sys' modules installed.")
+    print("Please make sure you have the 'socket' module installed.")
     exit()
 
 def main():
